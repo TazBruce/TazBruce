@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Tasman Bruce</h1>
-<h3 align="center">A passionate computer science student from VUW (Victoria University of Wellington)</h3>
+<h3 align="center">A computer science student from VUW (Victoria University of Wellington)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tazbruce" alt="tazbruce" /> </p>
 
