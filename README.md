@@ -12,10 +12,7 @@
 - 📫 How to reach me **tasmanbrucework@gmail.com**
 
 - 💼 LinkedIn: [TazBruce](https://www.linkedin.com/in/tazbruce/)
-  
-  <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=tazbruce&show_icons=true" alt="tazbruce" /> </p>
+ 
 
-<p align="center">
-<a href="https://linkedin.com/in/tazbruce" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tazbruce" height="20" width="20" /></a>
-</p>
+[![Taz's GitHub stats](https://github-readme-stats.vercel.app/api?username=TazBruce&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
