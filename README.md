@@ -1,6 +1,5 @@
 <p align="center">
  <h1 align="center">Hey 👋, I'm Tasman Bruce</h1>
- <h3 align="center">A computer science student from VUW (Victoria University of Wellington)</h3>
 </p align="center">
 
 <!-- <p align="center">
